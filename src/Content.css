@@ -1,0 +1,51 @@
+.img2{
+    max-width: 1263.33px;
+    margin-top: 40px;
+}
+
+.img3{
+    text-align: center;
+    width: 250px;
+}
+
+.ppp{
+    
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.9;
+        color: #212529;
+        text-align: center;
+        background-color: #fff;
+    
+}
+
+.hrtag {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.btnn {
+    width: 190px;
+    height: 50px!important;
+    font-size: 18.5px;
+    letter-spacing: 2.5px;
+    background-color:rgb(239, 239, 239);
+    font-weight: 400;
+
+}
+
+.headd {
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}

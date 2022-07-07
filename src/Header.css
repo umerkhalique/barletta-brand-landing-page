@@ -1,0 +1,38 @@
+.font-display {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 14.5px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: white;
+    letter-spacing: 2.5px;
+    text-align: left;
+
+}
+.navbar{
+    position: relative;
+    z-index: 9999;
+}
+.nav-item-class{
+   margin-top: 4px;
+}
+
+.navv {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.imgg{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.amz {
+    height: 60px;
+    position: fixed;
+  top: 0;
+  background: white;
+  box-shadow: rgb(0 0 0 / 20%) 0px 4px 10px 0px;
+}

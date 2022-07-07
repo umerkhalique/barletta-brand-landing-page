@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* IMAGE SLIDER DIV */
+.imgsldrroot {
+    padding: 1rem;
+}
+.imgsldrdiv {
+    width: 282px;
+}
+.imglist1{
+    z-index: -1;
+}
+
+
+/* SOCIAL ICONS */
+
+.social_icons {
+    text-align: center;
+    padding: 20px 0;
+}
+.anc{
+    padding-top: 15px;
+}
+a{
+    font-size: large;
+    letter-spacing: 1px;
+    color: #000;
+    text-decoration: none;
+    line-height: 1.5;
+    text-align: center;
+}
+.anchor{
+    font-weight: 700;
+}
+h6{
+    font-family: inherit;
+    font-size: 15.14px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.classp{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+.bnt{
+    color: #0c3856;
+    font-family: inherit;
+    font-size: 15.14px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+.mr-2{
+    margin-right: 0.5rem!important;
+}
+.root {
+    
+    
+    position: relative;
+    height: 400px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.root:hover{
+    box-shadow:  0 13px 13px 3px #e9e9e9;
+}
+
+.root:hover .item_list-detail{
+    height: 300px;
+    visibility: visible;
+    z-index: 1;
+    position: relative;
+    background-color: white;
+}
+.root .item_list-detail{
+    visibility: hidden;
+    box-shadow:  0 13px 13px 3px #e9e9e9;
+}
+.item_list-detail{
+    padding-top: 75px;
+    border-top-style: none;
+}
+.color-tarawera{
+    background-color: #0c3856;
+    color: #fff;
+}
+.color-tarawera:hover {
+    color: #fff;
+}
+.color-outline-tarawera{
+    color: #0c3856;
+    border-color: #0c3856;
+    background-color: #fff;
+}
+.color-outline-tarawera:hover {
+    color: #fff;
+    border-color: #0c3856;
+    background-color: #0c3856;
+}
+.circle-btn{
+    border-radius: 20px;
+}
+.buttons-group > button {
+    font-size: 13.94px;
+    padding: 10px 25px;
+    box-sizing: border-box;
+    height: 60px;
+
+}
